@@ -2,7 +2,9 @@ function AppHeader() {
   return (
     <header className="app-header">
       <div>
-        <h1>CrisisGrid</h1>
+        <h1>
+          Crisis<span>Grid</span>
+        </h1>
         <p>Emergency Operations Center</p>
       </div>
 
